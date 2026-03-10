@@ -3,8 +3,8 @@
 
 Proyecto desarrollado para el **Parcial 1 – Programación Web**.
 
-## Tecnologías utilizadas
-
+> [!NOTE]
+> Tecnologías utilizadas
 - HTML5
 - CSS3 (Variables CSS, Flexbox, Grid)
 - JavaScript (ES6+, RegEx)
@@ -42,7 +42,7 @@ Al presionar "Registrar" aparece un **modal** mostrando todos los datos ingresad
 - Transición suave mediante variables CSS.
 
 ##  Estructura del proyecto
-
+> [!NOTE]
 ```
 parcial1-Nilsson-Garcia/
 ├── index.html
@@ -51,5 +51,3 @@ parcial1-Nilsson-Garcia/
 ├── script.js
 └── style.css
 ```
-
-
