@@ -42,7 +42,7 @@ Al presionar "Registrar" aparece un **modal** mostrando todos los datos ingresad
 - Transición suave mediante variables CSS.
 
 ##  Estructura del proyecto
-> [!NOTE]
+
 ```
 parcial1-Nilsson-Garcia/
 ├── index.html
