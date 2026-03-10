@@ -41,13 +41,11 @@ Al presionar "Registrar" aparece un **modal** mostrando todos los datos ingresad
 - El texto del botón cambia: *"Modo oscuro"* ↔ *"Modo claro"*.
 - Transición suave mediante variables CSS.
 
-## 📁 Estructura del proyecto
+##  Estructura del proyecto
 
 ```
-parcial1-nombre-apellido/
+parcial1-Nilsson-Garcia
 ├── index.html
 ├── CSS ├── Style.css
 ├── JS ├── app.js
-├──README.md
-└── .gitignore
 ```
