@@ -3,16 +3,15 @@
 
 Proyecto desarrollado para el **Parcial 1 – Programación Web**.
 
-## 🚀 Tecnologías utilizadas
+## Tecnologías utilizadas
 
 - HTML5
 - CSS3 (Variables CSS, Flexbox, Grid)
 - JavaScript (ES6+, RegEx)
 - Bootstrap 5.3
 - Bootstrap Icons 1.11
-- Google Fonts (Syne + DM Sans)
 
-## ✅ Requisitos implementados
+##  implementacion
 
 ### 1. Catálogo de servicios
 - 8 servicios digitales organizados en cards con Bootstrap grid responsive.
@@ -42,18 +41,15 @@ Al presionar "Registrar" aparece un **modal** mostrando todos los datos ingresad
 - El texto del botón cambia: *"Modo oscuro"* ↔ *"Modo claro"*.
 - Transición suave mediante variables CSS.
 
-## 📁 Estructura del proyecto
+##  Estructura del proyecto
 
 ```
-parcial1-nombre-apellido/
+parcial1-Nilsson-Garcia/
 ├── index.html
 ├── README.md
-└── .gitignore
+├──  .gitignore
+├── script.js
+└── style.css
 ```
 
-## 🌐 Cómo usar
 
-Abre `index.html` directamente en cualquier navegador moderno. No requiere servidor local.
-
----
-*Desarrollado por: [Tu nombre] – Programación Web 2025*
