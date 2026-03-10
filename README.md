@@ -1,17 +1,17 @@
-# parcial1-Nilsson-Garcia
 # TechServ – Catálogo de Servicios Digitales
 
 Proyecto desarrollado para el **Parcial 1 – Programación Web**.
 
-> [!NOTE]
-> Tecnologías utilizadas
+##  Tecnologías utilizadas
+
 - HTML5
 - CSS3 (Variables CSS, Flexbox, Grid)
 - JavaScript (ES6+, RegEx)
 - Bootstrap 5.3
 - Bootstrap Icons 1.11
+- Google Fonts (Syne + DM Sans)
 
-##  implementacion
+##  Requisitos implementados
 
 ### 1. Catálogo de servicios
 - 8 servicios digitales organizados en cards con Bootstrap grid responsive.
@@ -44,10 +44,9 @@ Al presionar "Registrar" aparece un **modal** mostrando todos los datos ingresad
 ##  Estructura del proyecto
 
 ```
-parcial1-Nilsson-Garcia/
+parcial1-nombre-apellido/
 ├── index.html
 ├── README.md
-├── gitignore
-├── script.js
-└── style.css
+└── .gitignore
 ```
+
