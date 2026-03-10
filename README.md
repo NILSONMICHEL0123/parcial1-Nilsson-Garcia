@@ -1,15 +1,12 @@
 # Servicios Digitales
-
-Proyecto desarrollado para el **Parcial 1 – Programación Web**.
-
-## 🚀 Tecnologías utilizadas
+##  Tecnologías utilizadas
 
 - HTML5
 - CSS3 (Variables CSS, Flexbox, Grid)
 - JavaScript (ES6+, RegEx)
 - Bootstrap 5.3
 - Bootstrap Icons 1.11
-- Google Fonts (Syne + DM Sans)
+
 
 ##  implementacion
 
