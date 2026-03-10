@@ -47,7 +47,7 @@ Al presionar "Registrar" aparece un **modal** mostrando todos los datos ingresad
 parcial1-Nilsson-Garcia/
 ├── index.html
 ├── README.md
-├──  .gitignore
+├── gitignore
 ├── script.js
 └── style.css
 ```
