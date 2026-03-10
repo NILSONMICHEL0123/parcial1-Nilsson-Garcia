@@ -1,8 +1,8 @@
-# TechServ – Catálogo de Servicios Digitales
+# Servicios Digitales
 
 Proyecto desarrollado para el **Parcial 1 – Programación Web**.
 
-##  Tecnologías utilizadas
+## 🚀 Tecnologías utilizadas
 
 - HTML5
 - CSS3 (Variables CSS, Flexbox, Grid)
@@ -11,7 +11,7 @@ Proyecto desarrollado para el **Parcial 1 – Programación Web**.
 - Bootstrap Icons 1.11
 - Google Fonts (Syne + DM Sans)
 
-##  Requisitos implementados
+##  implementacion
 
 ### 1. Catálogo de servicios
 - 8 servicios digitales organizados en cards con Bootstrap grid responsive.
@@ -41,12 +41,13 @@ Al presionar "Registrar" aparece un **modal** mostrando todos los datos ingresad
 - El texto del botón cambia: *"Modo oscuro"* ↔ *"Modo claro"*.
 - Transición suave mediante variables CSS.
 
-##  Estructura del proyecto
+## 📁 Estructura del proyecto
 
 ```
 parcial1-nombre-apellido/
 ├── index.html
-├── README.md
+├── CSS ├── Style.css
+├── JS ├── app.js
+├──README.md
 └── .gitignore
 ```
-
